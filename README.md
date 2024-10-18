@@ -57,3 +57,12 @@ We repeat the process for seconds and milliseconds
 `seconds = Math.floor(fraction * 86400) % 60`
 
 `milliseconds = Math.floor(fraction * 86400000) % 1000`
+
+
+
+/////Original contributor above, adding the mathematical steps the JavaScript is executing which looks sound-- the JavaScript needs only acquire the current Unix time:
+
+![37F48A5F-EC11-42B0-AD68-B5D159709AB6](https://github.com/user-attachments/assets/44798780-23cd-436e-bef1-40c6c117a19c)
+
+
+
